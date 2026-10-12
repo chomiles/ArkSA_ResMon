@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+backups/
+*.bak
+dist/*
+!dist/ARK_Resmon.exe
+tests/portable-check*/
